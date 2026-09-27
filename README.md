@@ -229,4 +229,4 @@ This repository serves as the official landing page for Dr.Web CureIt!. The soft
 **Get the most recent version of Dr.Web CureIt! today!**
 
 ---
-**Last updated:** 2026-09-27 09:34:52 UTC
+**Last updated:** 2026-09-27 14:51:35 UTC
